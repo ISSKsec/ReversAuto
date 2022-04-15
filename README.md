@@ -1,9 +1,8 @@
 # ReversAuto
 
 
-╔╦╗╦ ╦  ┬  ┬┌┬┐┌┬┐┬  ┌─┐  ┌─┐┬─┐┌─┐┌─┐┬─┐┌─┐┌┬┐
-║║║╚╦╝  │  │ │  │ │  ├┤   ├─┘├┬┘│ ││ ┬├┬┘├─┤│││
-╩ ╩ ╩   ┴─┘┴ ┴  ┴ ┴─┘└─┘  ┴  ┴└─└─┘└─┘┴└─┴ ┴┴ ┴
+MY LITTLE PROGRAM
+
 simple use python3 reversespace.py 10.10.10.10 443
 
 example:
